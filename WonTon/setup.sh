@@ -36,8 +36,9 @@ create_default_configs() {
   "isSkipInvalidProxy": true,
   "delayEachAccount": [1, 81],
   "referralCode": "UHX9CQK0",
-  "minPriceToSellTon": 0,
-   "doTasks": true
+  "minPriceToSellTon": 0.1,
+  "doTasks": false,
+  "howManyPacksYouWantToBuy": 1
 }
 EOL
 }
@@ -113,7 +114,7 @@ while true; do
             else
                 print_green "Using node_modules from current directory"
             fi
-            cd wonton && node bot
+            node meomundep
             read -p "Press Enter to continue..."
             ;;
         4)

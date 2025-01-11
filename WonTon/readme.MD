@@ -50,7 +50,8 @@ Download Node.js and npm here: [Download Link](https://t.me/KeoAirDropFreeNe/257
   "delayEachAccount": [1, 81],
   "referralCode": "UHX9CQK0",
   "minPriceToSellTon": 0.1,
-  "doTasks": true
+  "doTasks": false,
+  "howManyPacksYouWantToBuy": 1
 }
 ```
 
@@ -63,6 +64,9 @@ query_id.../user...
 ```
 
 ### 3. `wallets.txt` 💼 - Cannot update yet.
+
+- Wallets generator: [Link](https://github.com/MeoMunDep/Automatic-Ultimate-Create-Wallets-for-Airdrop)
+
 
 ```txt - wallet address
 abc...xyz
@@ -82,6 +86,6 @@ socks5://user:password@host:port
 💡 Usage:
 
 > You need to `cd` to the file after extract it
-> To run the bot, use the following command: `cd wonton-main/wonton; node 1`
+> To run the bot, use the following command: `cd wonton-main/wonton; node meomundep`
 
 🎇Enjoy!
