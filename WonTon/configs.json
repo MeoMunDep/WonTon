@@ -5,6 +5,7 @@
   "isSkipInvalidProxy": true,
   "delayEachAccount": [1, 1],
   "referralCode": "UHX9CQK0",
+  "sellItems": false,
   "minPriceToSellTon": 0.1,
   "doTasks": false,
   "howManyPacksYouWantToBuy": 1
