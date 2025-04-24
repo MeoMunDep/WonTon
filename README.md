@@ -52,6 +52,7 @@ Download Node.js and npm here: [Download Link](https://t.me/KeoAirDropFreeNe/257
   "sellItems": false,
   "minPriceToSellTon": 0.1,
   "doTasks": false,
+  "doFish": true,
   "howManyPacksYouWantToBuy": 1
 }
 ```
