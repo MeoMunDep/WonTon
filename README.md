@@ -47,8 +47,9 @@ Download Node.js and npm here: [Download Link](https://t.me/KeoAirDropFreeNe/257
   "countdown": 300,
   "country_time": "en-US",
   "isSkipInvalidProxy": true,
-  "delayEachAccount": [1, 81],
+  "delayEachAccount": [1, 1],
   "referralCode": "UHX9CQK0",
+  "sellItems": false,
   "minPriceToSellTon": 0.1,
   "doTasks": false,
   "howManyPacksYouWantToBuy": 1
