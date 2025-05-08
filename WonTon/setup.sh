@@ -71,7 +71,6 @@ create_default_configs() {
 {
   "limit": 100,
   "countdown": 300,
-  "country_time": "en-US",
   "isSkipInvalidProxy": true,
   "delayEachAccount": [1, 1],
   "referralCode": "UHX9CQK0",
