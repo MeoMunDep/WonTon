@@ -9,7 +9,7 @@
 - Group: [Link](t.me/KeoAirDropFreeNe)
 - Channel: [Link](t.me/KeoAirDropFreeNee)
 
-> > > Help me with your referral [Link](https://t.me/WontonOrgBot/gameapp?startapp=referralCode=UHX9CQK0)
+Help me with your referral [Link](https://t.me/WontonOrgBot/gameapp?startapp=referralCode=UHX9CQK0)
 
 ## 🚀 Getting Started
 
@@ -30,7 +30,7 @@ Download Node.js and npm here: [Download Link](https://t.me/KeoAirDropFreeNe/257
 1. **Install Dependencies and Modules:**
 
    ```
-   npm i user-agents cloudscraper axios colors https-proxy-agent socks-proxy-agent 
+   npm i user-agents cloudscraper axios meo-forkcy-colors meo-forkcy-utils meo-forkcy-proxy meo-forkcy-logger 
    ```
 
 2. **Prepare Configuration Files:**
@@ -93,6 +93,6 @@ socks5://user:pass@host:port
 💡 Usage:
 
 > You need to `cd` to the file after extract it
-> To run the bot, use the following command: `cd wonton-main/wonton; node meomundep`
+> To run the bot, use the following command: `cd wonton; node meomundep`
 
 🎇Enjoy!
